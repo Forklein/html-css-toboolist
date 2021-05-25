@@ -66,6 +66,7 @@ button{
 li{
     list-style: none;
     margin: 10px;
+    color: grey;
 }
 
 .label{
@@ -87,4 +88,11 @@ li{
 .arrow{
     vertical-align: top;
     font-size: 35px;
+}
+
+.check-no{
+    border-radius: 50%;
+    color: red;
+    border: 1px solid red;
+    padding: 2px;
 }
