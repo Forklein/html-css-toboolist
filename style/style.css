@@ -65,7 +65,7 @@ button{
 
 li{
     list-style: none;
-    margin-top: -20px;
+    margin: 10px;
 }
 
 .label{
@@ -74,7 +74,7 @@ li{
     margin-left: 10px;
     background-color: #47adf1;
     color: #fff;
-    padding: 5px;
+    padding: 4px;
 }
 
 .check-ok{
