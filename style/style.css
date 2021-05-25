@@ -13,6 +13,8 @@ header{
     height: 80px;
     line-height: 80px;
     padding-left: 10px;
+    font-weight: 900;
+    font-style: normal;
 }
 
 #logo{
@@ -21,15 +23,15 @@ header{
 
 header > h1{
     display: inline-block;
-    font-weight: 900;
+    font-size: 35px;
 }
 
 .container{
     width: 50%;
-    height: 800px;
+    height: 650px;
     background-color: #fff;
     margin: auto;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 .container-2{
@@ -58,7 +60,6 @@ button{
 
 .container-3{
     width: 100%;
-    height: 750px;
     margin-left: 60px;
     margin-top: 20px;
 }
@@ -71,11 +72,11 @@ li{
 
 .label{
     border: 1px solid;
-    border-radius: 10px;
+    border-radius: 20px;
     margin-left: 10px;
     background-color: #47adf1;
     color: #fff;
-    padding: 4px;
+    padding: 6px;
 }
 
 .check-ok{
@@ -95,4 +96,28 @@ li{
     color: red;
     border: 1px solid red;
     padding: 2px;
+}
+
+h2{
+    margin-bottom: -20px;
+}
+
+.box-green{
+    background-color: #64c0a9;
+}
+
+.box-purple{
+    background-color: #9c72e4;
+}
+
+.box-orange{
+    background-color: #f29e33;
+}
+
+.box-magenta{
+    background-color: #d863a1;
+}
+
+.box-lightgreen{
+    background-color: #b0c926;
 }
