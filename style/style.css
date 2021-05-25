@@ -31,3 +31,60 @@ header > h1{
     margin: auto;
     margin-top: 20px;
 }
+
+.container-2{
+    width: 100%;
+    height: 50px;
+    background-color: #fff;
+}
+
+.button{
+    width: 100%;
+    height: 20px;
+    margin-left: 60px;
+}
+
+button{
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 8px;
+    border: 1px solid grey;
+}
+
+#color-button{
+    background-color: #47adf1;
+    color: #fff;
+}
+
+.container-3{
+    width: 100%;
+    height: 750px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+li{
+    list-style: none;
+    margin-top: -20px;
+}
+
+.label{
+    border: 1px solid;
+    border-radius: 10px;
+    margin-left: 10px;
+    background-color: #47adf1;
+    color: #fff;
+    padding: 5px;
+}
+
+.check-ok{
+    border-radius: 50%;
+    color: green;
+    border: 1px solid green;
+    padding: 2px;
+}
+
+.arrow{
+    vertical-align: top;
+    font-size: 35px;
+}
